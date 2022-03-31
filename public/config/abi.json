@@ -474,7 +474,7 @@
         "type": "address"
       },
       {
-        "internalType": "address",
+        "internalType": "address"
         "name": "to",
         "type": "address"
       },
