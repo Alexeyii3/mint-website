@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x835bB39e6974C26e137d9B6CfF669Be6aAD94aab",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x835bB39e6974C26e137d9B6CfF669Be6aAD94aab",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cryptorn NFT",
+  "SYMBOL": "Cryptai Girls NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://rinkeby.rarible.com/collection/0x835bb39e6974c26e137d9b6cff669be6aad94aab/items",
+  "SHOW_BACKGROUND": true
+}

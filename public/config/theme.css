@@ -1,0 +1,17 @@
+:root {
+  //*--primary: #ebc908;*//
+  --primary-text: #1a1a1a;
+  --secondary: #ff1dec;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+}
+
+html{
+  font-family: Acrom-Bold;
+}
+
+@font-face {
+  font-family: Acrom-Bold;
+  src: url(Acrom-Bold.woff);
+}
