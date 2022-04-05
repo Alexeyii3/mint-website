@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xE353aC0b1f8eB23f81064237909f677104E3f452",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe353ac0b1f8eb23f81064237909f677104e3f452",
+  "CONTRACT_ADDRESS": "0xA6bc9B0247e70Fe77AB41eEEe419C01B5D3256fb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa6bc9b0247e70fe77ab41eeee419c01b5d3256fb",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptai-yoyoyo2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptai-girl2",
   "SHOW_BACKGROUND": true
 }
